@@ -7,3 +7,7 @@ C:/ST/STM32CubeIDE_1.14.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.external
 ![Alt text](image.png)
 
 
+To link source to a "project" within a Workspace the following will create a folder linking to an external folder: 
+
+
+![Alt text](image-1.png)
