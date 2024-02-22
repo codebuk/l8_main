@@ -24,3 +24,9 @@ Setup a new project:
 
 Add all relaetated projects as references.
 
+
+Need to add "source  Location"
+
+![Alt text](image-4.png)
+
+
